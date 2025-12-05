@@ -1,0 +1,17 @@
+D:\Belgeler\visual-programming\login\login\bin\Debug\net9.0-windows\login.exe
+D:\Belgeler\visual-programming\login\login\bin\Debug\net9.0-windows\login.deps.json
+D:\Belgeler\visual-programming\login\login\bin\Debug\net9.0-windows\login.runtimeconfig.json
+D:\Belgeler\visual-programming\login\login\bin\Debug\net9.0-windows\login.dll
+D:\Belgeler\visual-programming\login\login\bin\Debug\net9.0-windows\login.pdb
+D:\Belgeler\visual-programming\login\login\obj\Debug\net9.0-windows\login.Form1.resources
+D:\Belgeler\visual-programming\login\login\obj\Debug\net9.0-windows\login.csproj.GenerateResource.cache
+D:\Belgeler\visual-programming\login\login\obj\Debug\net9.0-windows\login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgeler\visual-programming\login\login\obj\Debug\net9.0-windows\login.AssemblyInfoInputs.cache
+D:\Belgeler\visual-programming\login\login\obj\Debug\net9.0-windows\login.AssemblyInfo.cs
+D:\Belgeler\visual-programming\login\login\obj\Debug\net9.0-windows\login.csproj.CoreCompileInputs.cache
+D:\Belgeler\visual-programming\login\login\obj\Debug\net9.0-windows\login.sourcelink.json
+D:\Belgeler\visual-programming\login\login\obj\Debug\net9.0-windows\login.dll
+D:\Belgeler\visual-programming\login\login\obj\Debug\net9.0-windows\refint\login.dll
+D:\Belgeler\visual-programming\login\login\obj\Debug\net9.0-windows\login.pdb
+D:\Belgeler\visual-programming\login\login\obj\Debug\net9.0-windows\login.genruntimeconfig.cache
+D:\Belgeler\visual-programming\login\login\obj\Debug\net9.0-windows\ref\login.dll

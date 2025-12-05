@@ -1,0 +1,16 @@
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\bin\Debug\net9.0-windows\PeopleManager.exe
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\bin\Debug\net9.0-windows\PeopleManager.deps.json
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\bin\Debug\net9.0-windows\PeopleManager.runtimeconfig.json
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\bin\Debug\net9.0-windows\PeopleManager.dll
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\bin\Debug\net9.0-windows\PeopleManager.pdb
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\obj\Debug\net9.0-windows\PeopleManager.Form1.resources
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\obj\Debug\net9.0-windows\PeopleManager.csproj.GenerateResource.cache
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\obj\Debug\net9.0-windows\PeopleManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\obj\Debug\net9.0-windows\PeopleManager.AssemblyInfoInputs.cache
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\obj\Debug\net9.0-windows\PeopleManager.AssemblyInfo.cs
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\obj\Debug\net9.0-windows\PeopleManager.csproj.CoreCompileInputs.cache
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\obj\Debug\net9.0-windows\PeopleManager.dll
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\obj\Debug\net9.0-windows\refint\PeopleManager.dll
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\obj\Debug\net9.0-windows\PeopleManager.pdb
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\obj\Debug\net9.0-windows\PeopleManager.genruntimeconfig.cache
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\PeopleManager\PeopleManager\obj\Debug\net9.0-windows\ref\PeopleManager.dll

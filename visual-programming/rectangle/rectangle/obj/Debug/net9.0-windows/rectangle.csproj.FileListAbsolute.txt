@@ -1,0 +1,33 @@
+D:\Belgeler\visual-programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.Form1.resources
+D:\Belgeler\visual-programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.csproj.GenerateResource.cache
+D:\Belgeler\visual-programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgeler\visual-programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.AssemblyInfoInputs.cache
+D:\Belgeler\visual-programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.AssemblyInfo.cs
+D:\Belgeler\visual-programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.csproj.CoreCompileInputs.cache
+D:\Belgeler\visual-programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.sourcelink.json
+D:\Belgeler\visual-programming\rectangle\rectangle\bin\Debug\net9.0-windows\rectangle.exe
+D:\Belgeler\visual-programming\rectangle\rectangle\bin\Debug\net9.0-windows\rectangle.deps.json
+D:\Belgeler\visual-programming\rectangle\rectangle\bin\Debug\net9.0-windows\rectangle.runtimeconfig.json
+D:\Belgeler\visual-programming\rectangle\rectangle\bin\Debug\net9.0-windows\rectangle.dll
+D:\Belgeler\visual-programming\rectangle\rectangle\bin\Debug\net9.0-windows\rectangle.pdb
+D:\Belgeler\visual-programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.dll
+D:\Belgeler\visual-programming\rectangle\rectangle\obj\Debug\net9.0-windows\refint\rectangle.dll
+D:\Belgeler\visual-programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.pdb
+D:\Belgeler\visual-programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.genruntimeconfig.cache
+D:\Belgeler\visual-programming\rectangle\rectangle\obj\Debug\net9.0-windows\ref\rectangle.dll
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\bin\Debug\net9.0-windows\rectangle.exe
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\bin\Debug\net9.0-windows\rectangle.deps.json
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\bin\Debug\net9.0-windows\rectangle.runtimeconfig.json
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\bin\Debug\net9.0-windows\rectangle.dll
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\bin\Debug\net9.0-windows\rectangle.pdb
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.Form1.resources
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.csproj.GenerateResource.cache
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.AssemblyInfoInputs.cache
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.AssemblyInfo.cs
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.csproj.CoreCompileInputs.cache
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.dll
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\obj\Debug\net9.0-windows\refint\rectangle.dll
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.pdb
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\obj\Debug\net9.0-windows\rectangle.genruntimeconfig.cache
+C:\Users\tufan\Desktop\Tufan Şahin Düzel - Visual Programming\rectangle\rectangle\obj\Debug\net9.0-windows\ref\rectangle.dll
