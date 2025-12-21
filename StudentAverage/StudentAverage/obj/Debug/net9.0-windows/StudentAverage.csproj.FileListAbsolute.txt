@@ -1,0 +1,32 @@
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\bin\Debug\net9.0-windows\StudentAverage.exe
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\bin\Debug\net9.0-windows\StudentAverage.deps.json
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\bin\Debug\net9.0-windows\StudentAverage.runtimeconfig.json
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\bin\Debug\net9.0-windows\StudentAverage.dll
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\bin\Debug\net9.0-windows\StudentAverage.pdb
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.Form1.resources
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.dll
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\refint\StudentAverage.dll
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.pdb
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\ref\StudentAverage.dll
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\bin\Debug\net9.0-windows\StudentAverage.exe
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\bin\Debug\net9.0-windows\StudentAverage.deps.json
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\bin\Debug\net9.0-windows\StudentAverage.runtimeconfig.json
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\bin\Debug\net9.0-windows\StudentAverage.dll
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\bin\Debug\net9.0-windows\StudentAverage.pdb
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.Form1.resources
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.dll
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\refint\StudentAverage.dll
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.pdb
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\StudentAverage.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\Software Engineering\StudentAverage\StudentAverage\obj\Debug\net9.0-windows\ref\StudentAverage.dll

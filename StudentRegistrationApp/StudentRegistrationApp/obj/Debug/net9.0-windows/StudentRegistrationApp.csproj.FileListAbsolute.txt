@@ -1,0 +1,16 @@
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\bin\Debug\net9.0-windows\StudentRegistrationApp.exe
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\bin\Debug\net9.0-windows\StudentRegistrationApp.deps.json
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\bin\Debug\net9.0-windows\StudentRegistrationApp.runtimeconfig.json
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\bin\Debug\net9.0-windows\StudentRegistrationApp.dll
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\bin\Debug\net9.0-windows\StudentRegistrationApp.pdb
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\net9.0-windows\StudentRegistrationApp.Form1.resources
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\net9.0-windows\StudentRegistrationApp.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\net9.0-windows\StudentRegistrationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\net9.0-windows\StudentRegistrationApp.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\net9.0-windows\StudentRegistrationApp.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\net9.0-windows\StudentRegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\net9.0-windows\StudentRegistrationApp.dll
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\net9.0-windows\refint\StudentRegistrationApp.dll
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\net9.0-windows\StudentRegistrationApp.pdb
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\net9.0-windows\StudentRegistrationApp.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\StudentRegistrationApp\StudentRegistrationApp\obj\Debug\net9.0-windows\ref\StudentRegistrationApp.dll

@@ -1,0 +1,16 @@
+C:\Users\mustafa\Desktop\Contacts\Contacts\bin\Debug\net9.0-windows\Contacts.exe
+C:\Users\mustafa\Desktop\Contacts\Contacts\bin\Debug\net9.0-windows\Contacts.deps.json
+C:\Users\mustafa\Desktop\Contacts\Contacts\bin\Debug\net9.0-windows\Contacts.runtimeconfig.json
+C:\Users\mustafa\Desktop\Contacts\Contacts\bin\Debug\net9.0-windows\Contacts.dll
+C:\Users\mustafa\Desktop\Contacts\Contacts\bin\Debug\net9.0-windows\Contacts.pdb
+C:\Users\mustafa\Desktop\Contacts\Contacts\obj\Debug\net9.0-windows\Contacts.Form1.resources
+C:\Users\mustafa\Desktop\Contacts\Contacts\obj\Debug\net9.0-windows\Contacts.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\Contacts\Contacts\obj\Debug\net9.0-windows\Contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\Contacts\Contacts\obj\Debug\net9.0-windows\Contacts.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\Contacts\Contacts\obj\Debug\net9.0-windows\Contacts.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\Contacts\Contacts\obj\Debug\net9.0-windows\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\Contacts\Contacts\obj\Debug\net9.0-windows\Contacts.dll
+C:\Users\mustafa\Desktop\Contacts\Contacts\obj\Debug\net9.0-windows\refint\Contacts.dll
+C:\Users\mustafa\Desktop\Contacts\Contacts\obj\Debug\net9.0-windows\Contacts.pdb
+C:\Users\mustafa\Desktop\Contacts\Contacts\obj\Debug\net9.0-windows\Contacts.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\Contacts\Contacts\obj\Debug\net9.0-windows\ref\Contacts.dll

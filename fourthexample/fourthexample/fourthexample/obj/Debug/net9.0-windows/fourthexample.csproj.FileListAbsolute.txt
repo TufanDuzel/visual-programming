@@ -1,0 +1,16 @@
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\bin\Debug\net9.0-windows\fourthexample.exe
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\bin\Debug\net9.0-windows\fourthexample.deps.json
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\bin\Debug\net9.0-windows\fourthexample.runtimeconfig.json
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\bin\Debug\net9.0-windows\fourthexample.dll
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\bin\Debug\net9.0-windows\fourthexample.pdb
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\obj\Debug\net9.0-windows\fourthexample.Form1.resources
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\obj\Debug\net9.0-windows\fourthexample.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\obj\Debug\net9.0-windows\fourthexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\obj\Debug\net9.0-windows\fourthexample.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\obj\Debug\net9.0-windows\fourthexample.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\obj\Debug\net9.0-windows\fourthexample.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\obj\Debug\net9.0-windows\fourthexample.dll
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\obj\Debug\net9.0-windows\refint\fourthexample.dll
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\obj\Debug\net9.0-windows\fourthexample.pdb
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\obj\Debug\net9.0-windows\fourthexample.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\fourthexample\fourthexample\obj\Debug\net9.0-windows\ref\fourthexample.dll

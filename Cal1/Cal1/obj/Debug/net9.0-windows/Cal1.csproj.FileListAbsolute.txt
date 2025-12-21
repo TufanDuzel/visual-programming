@@ -1,0 +1,16 @@
+C:\Users\mustafa\Desktop\Cal1\Cal1\obj\Debug\net9.0-windows\Cal1.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\Cal1\Cal1\obj\Debug\net9.0-windows\Cal1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\Cal1\Cal1\obj\Debug\net9.0-windows\Cal1.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\Cal1\Cal1\obj\Debug\net9.0-windows\Cal1.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\Cal1\Cal1\obj\Debug\net9.0-windows\Cal1.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\Cal1\Cal1\bin\Debug\net9.0-windows\Cal1.exe
+C:\Users\mustafa\Desktop\Cal1\Cal1\bin\Debug\net9.0-windows\Cal1.deps.json
+C:\Users\mustafa\Desktop\Cal1\Cal1\bin\Debug\net9.0-windows\Cal1.runtimeconfig.json
+C:\Users\mustafa\Desktop\Cal1\Cal1\bin\Debug\net9.0-windows\Cal1.dll
+C:\Users\mustafa\Desktop\Cal1\Cal1\bin\Debug\net9.0-windows\Cal1.pdb
+C:\Users\mustafa\Desktop\Cal1\Cal1\obj\Debug\net9.0-windows\Cal1.Form1.resources
+C:\Users\mustafa\Desktop\Cal1\Cal1\obj\Debug\net9.0-windows\Cal1.dll
+C:\Users\mustafa\Desktop\Cal1\Cal1\obj\Debug\net9.0-windows\refint\Cal1.dll
+C:\Users\mustafa\Desktop\Cal1\Cal1\obj\Debug\net9.0-windows\Cal1.pdb
+C:\Users\mustafa\Desktop\Cal1\Cal1\obj\Debug\net9.0-windows\Cal1.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\Cal1\Cal1\obj\Debug\net9.0-windows\ref\Cal1.dll

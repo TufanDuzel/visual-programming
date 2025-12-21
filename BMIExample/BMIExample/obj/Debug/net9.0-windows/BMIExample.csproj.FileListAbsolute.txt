@@ -1,0 +1,16 @@
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\bin\Debug\net9.0-windows\BMIExample.exe
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\bin\Debug\net9.0-windows\BMIExample.deps.json
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\bin\Debug\net9.0-windows\BMIExample.runtimeconfig.json
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\bin\Debug\net9.0-windows\BMIExample.dll
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\bin\Debug\net9.0-windows\BMIExample.pdb
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\obj\Debug\net9.0-windows\BMIExample.Form1.resources
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\obj\Debug\net9.0-windows\BMIExample.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\obj\Debug\net9.0-windows\BMIExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\obj\Debug\net9.0-windows\BMIExample.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\obj\Debug\net9.0-windows\BMIExample.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\obj\Debug\net9.0-windows\BMIExample.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\obj\Debug\net9.0-windows\BMIExample.dll
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\obj\Debug\net9.0-windows\refint\BMIExample.dll
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\obj\Debug\net9.0-windows\BMIExample.pdb
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\obj\Debug\net9.0-windows\BMIExample.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\BMIExample\BMIExample\obj\Debug\net9.0-windows\ref\BMIExample.dll

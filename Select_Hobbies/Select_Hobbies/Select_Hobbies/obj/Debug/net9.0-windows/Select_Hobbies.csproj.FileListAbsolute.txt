@@ -1,0 +1,16 @@
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\bin\Debug\net9.0-windows\Select_Hobbies.exe
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\bin\Debug\net9.0-windows\Select_Hobbies.deps.json
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\bin\Debug\net9.0-windows\Select_Hobbies.runtimeconfig.json
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\bin\Debug\net9.0-windows\Select_Hobbies.dll
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\bin\Debug\net9.0-windows\Select_Hobbies.pdb
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\obj\Debug\net9.0-windows\Select_Hobbies.Form1.resources
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\obj\Debug\net9.0-windows\Select_Hobbies.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\obj\Debug\net9.0-windows\Select_Hobbies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\obj\Debug\net9.0-windows\Select_Hobbies.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\obj\Debug\net9.0-windows\Select_Hobbies.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\obj\Debug\net9.0-windows\Select_Hobbies.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\obj\Debug\net9.0-windows\Select_Hobbies.dll
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\obj\Debug\net9.0-windows\refint\Select_Hobbies.dll
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\obj\Debug\net9.0-windows\Select_Hobbies.pdb
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\obj\Debug\net9.0-windows\Select_Hobbies.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\Select_Hobbies\Select_Hobbies\obj\Debug\net9.0-windows\ref\Select_Hobbies.dll
