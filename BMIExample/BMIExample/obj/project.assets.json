@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Belgeler\\VP\\Software Engineering\\BMIExample\\BMIExample\\BMIExample.csproj",
+      "projectUniqueName": "D:\\Belgeler\\visual-programming\\BMIExample\\BMIExample\\BMIExample.csproj",
       "projectName": "BMIExample",
-      "projectPath": "D:\\Belgeler\\VP\\Software Engineering\\BMIExample\\BMIExample\\BMIExample.csproj",
+      "projectPath": "D:\\Belgeler\\visual-programming\\BMIExample\\BMIExample\\BMIExample.csproj",
       "packagesPath": "C:\\Users\\tufan\\.nuget\\packages\\",
-      "outputPath": "D:\\Belgeler\\VP\\Software Engineering\\BMIExample\\BMIExample\\obj\\",
+      "outputPath": "D:\\Belgeler\\visual-programming\\BMIExample\\BMIExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

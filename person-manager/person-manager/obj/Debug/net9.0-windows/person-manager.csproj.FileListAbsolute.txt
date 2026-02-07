@@ -1,0 +1,16 @@
+D:\p\person-manager\person-manager\bin\Debug\net9.0-windows\person-manager.exe
+D:\p\person-manager\person-manager\bin\Debug\net9.0-windows\person-manager.deps.json
+D:\p\person-manager\person-manager\bin\Debug\net9.0-windows\person-manager.runtimeconfig.json
+D:\p\person-manager\person-manager\bin\Debug\net9.0-windows\person-manager.dll
+D:\p\person-manager\person-manager\bin\Debug\net9.0-windows\person-manager.pdb
+D:\p\person-manager\person-manager\obj\Debug\net9.0-windows\person_manager.Form1.resources
+D:\p\person-manager\person-manager\obj\Debug\net9.0-windows\person-manager.csproj.GenerateResource.cache
+D:\p\person-manager\person-manager\obj\Debug\net9.0-windows\person-manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\p\person-manager\person-manager\obj\Debug\net9.0-windows\person-manager.AssemblyInfoInputs.cache
+D:\p\person-manager\person-manager\obj\Debug\net9.0-windows\person-manager.AssemblyInfo.cs
+D:\p\person-manager\person-manager\obj\Debug\net9.0-windows\person-manager.csproj.CoreCompileInputs.cache
+D:\p\person-manager\person-manager\obj\Debug\net9.0-windows\person-manager.dll
+D:\p\person-manager\person-manager\obj\Debug\net9.0-windows\refint\person-manager.dll
+D:\p\person-manager\person-manager\obj\Debug\net9.0-windows\person-manager.pdb
+D:\p\person-manager\person-manager\obj\Debug\net9.0-windows\person-manager.genruntimeconfig.cache
+D:\p\person-manager\person-manager\obj\Debug\net9.0-windows\ref\person-manager.dll
